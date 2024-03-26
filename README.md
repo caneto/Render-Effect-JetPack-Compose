@@ -1,2 +1,3 @@
-# Render-Effect-JetPack-Compose
-Example for artige/ebook
+# Exploring RenderEffect In Compose
+
+
